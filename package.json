@@ -4,22 +4,22 @@
   "description": "a",
   "main": "server.js",
   "scripts": {
-    "test": "",
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
     "dev": "webpack -w & node server.js",
     "build": "webpack"
   },
   "repository": {
-    "type": "",
-    "url": ""
+    "type": "git",
+    "url": "git+https://github.com/taebtengri/reactnyt.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/taebtengri/reactnyt/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/taebtengri/reactnyt#readme",
   "dependencies": {
     "axios": "^0.16.2",
     "babel-core": "^6.25.0",
